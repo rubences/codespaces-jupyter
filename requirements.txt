@@ -1,5 +1,6 @@
 ipywidgets==7.7.1
 matplotlib
+colorama
 numpy
 pandas
 torch
